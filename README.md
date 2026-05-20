@@ -23,7 +23,7 @@ An intelligent AI-powered stock price assistant that fetches real-time data from
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/KarunaSoraganvi/finance-ai-assistant.git
+   git clone https://github.com/KarunaSoraganvi/AI-Stock-Assitant-with-Yahoo-Finance.git
    cd finance-ai-assistant
    ```
 
